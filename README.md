@@ -37,10 +37,11 @@ Integrates budget filtering, conversational flows, and a streamlit web-based int
 
 ---
 
-#### 🧵 Tony’s Custom Tailoring Website  
-Responsive business website built with **HTML, CSS, and JavaScript** for a local tailoring shop.  
+#### 🧵 Tony’s Custom Tailoring Website
+A responsive business website built with HTML, CSS, and JavaScript for a local tailoring shop.  
 Includes image galleries, service pages, customer testimonials, and a Google Maps integration.  
-Deployed using **DNS hosting** and optimized for both mobile and desktop.  
+Deployed using DNS hosting and optimized for both mobile and desktop.  
+
 🔗 [View Repository](https://github.com/spham21/Tony-s-Custom-Tailoring-Website)
 ---
 
@@ -62,24 +63,11 @@ Built with **JavaScript** and **Python** for seamless interaction between user i
 ---
 
 ### 📫 Let’s Connect
-🤗 [Portfolio Website](#) _(https://my-portfolio-tawny-iota-86.vercel.app/)_  
-🔗[LinkedIn](#) _(https://www.linkedin.com/in/stephanie-pham-634ab1334/)_  
-💌 **stephaniepham520@gmail.com** _(replace with your email if you want to include one)_
+🤗 [Portfolio Website](#https://my-portfolio-tawny-iota-86.vercel.app/) 
+🔗[LinkedIn](#https://www.linkedin.com/in/stephanie-pham-634ab1334/) 
+💌 **stephaniepham520@gmail.com** 
 
 ---
 
 
 <!--
-**spham21/spham21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
