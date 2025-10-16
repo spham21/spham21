@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Stephanie Pham
+# 👋 Hi, I’m Stephanie!
 
 💻 **Software Developer | Web Designer | AI Projects | Data Analyst**
 
