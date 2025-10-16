@@ -43,6 +43,7 @@ Includes image galleries, service pages, customer testimonials, and a Google Map
 Deployed using DNS hosting and optimized for both mobile and desktop.  
 
 🔗 [View Repository](https://github.com/spham21/Tony-s-Custom-Tailoring-Website)
+
 ---
 
 #### 🖥️ My Portfolio  
@@ -63,8 +64,8 @@ Built with **JavaScript** and **Python** for seamless interaction between user i
 ---
 
 ### 📫 Let’s Connect
-🤗 [Portfolio Website](#https://my-portfolio-tawny-iota-86.vercel.app/) 
-🔗[LinkedIn](#https://www.linkedin.com/in/stephanie-pham-634ab1334/) 
+🤗 [Portfolio Website](https://my-portfolio-tawny-iota-86.vercel.app/) 
+🔗[LinkedIn](https://www.linkedin.com/in/stephanie-pham-634ab1334/) 
 💌 **stephaniepham520@gmail.com** 
 
 ---
