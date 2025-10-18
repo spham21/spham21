@@ -1,21 +1,19 @@
 # 👋 Hi, I’m Stephanie!
 
-💻 **Software Developer | Web Designer | AI Projects | Data Analyst**
+ **Software Developer | Web Designer | AI Projects | Data Analyst**
 
 I’m passionate about blending technology with creativity.   
 My work spans **full-stack development**, **Data Analysis**, and **AI Integrations** — I love taking an idea from concept to products.
 
 ---
 
-### 🧠 About Me
-- 🎓 Exploring the intersection of **AI, web tech, and design**
-- 💬 Love collaborating on projects that challenge both creativity and logic
-- 🛠️ Experienced with **React**, **Node.js**, **Python**, **JavaScript**, **html**, **C++** and **APIs**
-- 🌐 Focused on creating responsive, accessible, and human centered designs
+### About Me
+- Experienced with **React**, **Node.js**, **Python**, **JavaScript**, **html**, **C++** and **APIs**
+- Study Mathematics of Computation at UCLA
 
 ---
 
-### 🧩 Technical Skills
+### Technical Skills
 **Languages & Frameworks:**  
 JavaScript • Python • HTML • CSS • React • Node.js • Firebase • Next.js • C++
 
@@ -27,7 +25,7 @@ AI/ML APIs •  Responsive Web Design • State Management
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 #### ✈️ NSDC_winter25 — AI Hotel Chatbot 
 AI-powered travel assistant that helps users find **optimal hotels and transportation** globally.  
@@ -63,7 +61,7 @@ Built with **JavaScript** and **Python** for seamless interaction between user i
 
 ---
 
-### 📫 Let’s Connect
+### Let’s Connect
 🤗 [Portfolio Website](https://my-portfolio-tawny-iota-86.vercel.app/) 
 🔗[LinkedIn](https://www.linkedin.com/in/stephanie-pham-634ab1334/) 
 💌 **stephaniepham520@gmail.com** 
